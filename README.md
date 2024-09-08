@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 3rd-year undergraduate student at the Indian Institute of Technology. My primary interests lie in Deep Learning, with a particular focus on Multimodal Learning, where I am keen on exploring how different modalities like text, images, and videos can be integrated for enhanced AI capabilities.
+I am a 3rd-year undergraduate student at the Indian Institute of Technology Kharagpur. My primary interests lie in Deep Learning, with a particular focus on Multimodal Learning, where I am keen on exploring how different modalities like text, images, and videos can be integrated for enhanced AI capabilities.
 
 
 ## 🌐 Socials:
