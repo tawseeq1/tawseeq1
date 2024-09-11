@@ -4,7 +4,7 @@
 </a>
 <br/>
 
-<a href="https://gkos.dev">
+<a href="https://tawseeq1.github.io/">
     <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
 </a>  
 <a href="https://gkos.dev/Resume.pdf">
