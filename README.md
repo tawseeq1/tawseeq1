@@ -10,7 +10,7 @@
 <a href="https://gkos.dev/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
-<a href="https://www.linkedin.com/in/gkos/">
+<a href="http://linkedin.com/in/tawseeq/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:georgiou.kostas94@gmail.com">
@@ -40,9 +40,9 @@
 
 * 📖 Pursuing B.Tech at @ [Indian Institute of Technology Kharagpur](https://www.iitkgp.ac.in/). 
 
-* 🎓 Conducting research on **AI** and **NLP** @ [$Tr^2AIL$ Lab](https://adityasomak.github.io/research/).
+* 🎓 Conducting research on **AI** and **NLP** @ [Tr2AIL Lab](https://adityasomak.github.io/research/).
 
-* 💻 Currently building Masked Image Modeling models for Remote Sensing data. 
+* 💻 Currently working on Counterfactual Video QA. 
 
 ### 🖥️ Open-Source Projects
 <table>
