@@ -1,7 +1,5 @@
 <p align="center">
-<a href="https://github.com/tawseeq1">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Syed+Mohamad+Tawseeq;Undergraduate+Student+%7C+Researcher+;AI+%7C+Deep+Learning+%7C+NLP%7C+Multimodal+Learning" alt="Typing SVG" /></a>
 <br/>
 
 <a href="https://tawseeq1.github.io/">
