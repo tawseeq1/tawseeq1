@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Syed+Mohamad+Tawseeq;Undergraduate+Student+%7C+Researcher+;AI+%7C+Deep+Learning+%7C+NLP%7C+Multimodal+Learning" alt="Typing SVG" /></a>
-
+</br>
 <a href="https://tawseeq1.github.io/">
     <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
 </a>  
