@@ -17,9 +17,6 @@
 <!-- <a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a> -->
-<a href="https://pypi.org/user/tawseeq/">
-    <img src="https://img.shields.io/badge/PyPi-tawseeq-blue?style=flat-square&logo=pypi&logoColor=white">
-</a>
 <!-- <a href="https://pypi.org/user/drkostas/">
     <img src="https://komarev.com/ghpvc/?username=drkostas&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
 </a> -->
@@ -29,19 +26,19 @@
 <!-- <a href="https://github.com/drkostas">
     <img src="https://github-readme-stats.vercel.app/api?username=drkostas&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
 </a> -->
-
+<!--
 <a href="https://github.com/tawseeq1">
     <img src="https://github-stats-alpha.vercel.app/api?username=tawseeq1&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
-</p>
+</p>-->
 
 * 📖 Pursuing B.Tech at @ [Indian Institute of Technology Kharagpur](https://www.iitkgp.ac.in/). 
 
 * 🎓 Conducting research on **AI** and **NLP** @ [Tr2AIL Lab](https://adityasomak.github.io/research/).
 
 * 💻 Currently working on Counterfactual Video QA. 
-
+<!--
 ### 🖥️ Open-Source Projects
 <table>
 <tr><th>Machine Learning </th>
@@ -72,6 +69,7 @@
 </td> -->
 </tr>
 </table>
+-->
 
 <!-- <table>
 <tr><th>Bots </th><th>Misc Projects </th></tr>
