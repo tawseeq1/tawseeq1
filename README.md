@@ -91,8 +91,8 @@
 
 </td></tr> </table> -->
 
-<details>
-<summary>📈 Stats</summary>
+<!--<details>-->
+<!-- <summary>📈 Stats</summary> -->
 <br>
 My Github Stats
 
@@ -103,4 +103,4 @@ My Github Stats
 
 
 <br>
-</details>
+<!-- </details> -->
