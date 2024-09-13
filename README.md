@@ -73,7 +73,7 @@
 </tr>
 </table>
 
-<-- <table>
+<!-- <table>
 <tr><th>Bots </th><th>Misc Projects </th></tr>
 <tr><td>
 
