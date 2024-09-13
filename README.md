@@ -43,6 +43,7 @@
 <table>
 <tr><th>Machine Learning </th>
 <!--     <th>PyPi Packages</th> -->
+<!--
 </tr>
 <tr><td>
 
@@ -54,7 +55,8 @@
 | [AMEX T20 Prediction Challenge](https://github.com/tawseeq1/AMEX_T20_Prediction_Challenge) | <img alt="Stars" src="https://img.shields.io/github/stars/tawseeq1/AMEX_T20_Prediction_Challenge?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
 | [CLIP](https://github.com/tawseeq1/CLIP_implementation_-_fine_tuning) | <img alt="Stars" src="https://img.shields.io/github/stars/tawseeq1/CLIP_implementation_-_fine_tuning?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=b___QQ8AAAAJ&authuser=1&citation_for_view=b___QQ8AAAAJ:u5HHmVD_uO8C) ![PySpark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark) <br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)|
 | [Classical models from scratch](https://github.com/tawseeq1/Classical_models_from_scratch) | <img alt="Stars" src="https://img.shields.io/github/stars/tawseeq1/Classical_models_from_scratch?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-</td>
+</td> -->
+
 <!-- <td>
 
 |Title | Stars | Technologies|
@@ -66,10 +68,9 @@
 | [Email Sender](https://github.com/drkostas/pyemail-sender) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/pyemail-sender?style=flat-square&labelColor=black"/> | [![MailPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/pyemail-sender/) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![MailDown](https://static.pepy.tech/personalized-badge/pyemail-sender?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/pyemail-sender) |
 | [Benchmark Tools](https://github.com/drkostas/bench-utils) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/bench-utils?style=flat-square&labelColor=black"/> | [![BenchPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/bench-utils/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) <br> [![BenchDown](https://static.pepy.tech/personalized-badge/bench-utils?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/bench-utils) |
 
-</td> -->
+</td> 
 </tr>
-</table>
--->
+</table> -->
 
 <!-- <table>
 <tr><th>Bots </th><th>Misc Projects </th></tr>
