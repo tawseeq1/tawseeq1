@@ -73,7 +73,7 @@
 </tr>
 </table>
 
-<table>
+<-- <table>
 <tr><th>Bots </th><th>Misc Projects </th></tr>
 <tr><td>
 
@@ -91,17 +91,17 @@
 | [2D Shooter Game](https://github.com/drkostas/shooter-game-with-p5js) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/shooter-game-with-p5js?style=flat-square&labelColor=black"/> | ![p5](https://img.shields.io/badge/P5.js-black?style=flat-square&logo=p5dotjs)|
 | [Quantum Mechanics Quiz App](https://github.com/drkostas/Quantum-Mechanics-Quiz-App) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Quantum-Mechanics-Quiz-App?style=flat-square&labelColor=black"/> | ![android](https://img.shields.io/badge/App-black?style=flat-square&logo=android)|
 
-</td></tr> </table>
+</td></tr> </table> -->
 
 <details>
 <summary>📈 Stats</summary>
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawseeq1&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tawseeq1&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tawseeq1&theme=dracula)
 
 
 <br>
