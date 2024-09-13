@@ -3,7 +3,7 @@
 </br>
 </br>
 <a href="https://tawseeq1.github.io/">
-    <img src="https://img.shields.io/badge/Website-tawseeq.github.io-white?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-tawseeq.github.io-white?style=flat-square&logo=website">
 </a>  
 <a href="https://drive.google.com/file/d/1hLUva9t1Acsf1DfFuUEEqKwLALtu4xCi/view">
     <img src="https://img.shields.io/badge/PDF-CV-blue?style=flat-square&logo=adobe">
