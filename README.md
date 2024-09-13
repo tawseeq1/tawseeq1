@@ -19,7 +19,5 @@
 
 * 💻 Currently working on Counterfactual Video QA. 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawseeq1&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawseeq1&theme=algolia) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tawseeq1&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tawseeq1&theme=dracula)
