@@ -13,9 +13,9 @@
 </a>
 </p>
 
-* 📖 Pursuing B.Tech at @ [Indian Institute of Technology Kharagpur](https://www.iitkgp.ac.in/). 
+* 🎓 Pursuing B.Tech at @ [Indian Institute of Technology Kharagpur](https://www.iitkgp.ac.in/). 
 
-* 🎓 Conducting research on **AI** and **NLP** @ [Tr2AIL Lab](https://adityasomak.github.io/research/).
+* 🔎 Conducting research on **AI** and **NLP** @ [Tr2AIL Lab](https://adityasomak.github.io/research/).
 
 * 💻 Currently working on Counterfactual Video QA. 
 
